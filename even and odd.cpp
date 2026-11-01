@@ -14,6 +14,7 @@ for(z=2;z<=N;z=z+2)
 cout<<z<<endl;
 cout<<"sum";
 cout<<"end of program";
+cout<<"hello world";
 return 0;}
 
 
