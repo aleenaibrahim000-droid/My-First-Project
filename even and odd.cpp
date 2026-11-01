@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 int main(){
@@ -13,3 +14,6 @@ for(z=2;z<=N;z=z+2)
 cout<<z<<endl;
 cout<<"sum";
 return 0;}
+
+
+
